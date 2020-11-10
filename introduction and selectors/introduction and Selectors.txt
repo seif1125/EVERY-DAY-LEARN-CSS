@@ -1,0 +1,46 @@
+Css Stands for cascading style sheets which used to give a style to
+html elements as css is important as it gives us a lot of time efeeciency and modularity as 
+we do not need to style each element seperatly eliminating redundancy
+
+
+
+css is consist of numeber of declaration blocks where it is as the following
+
+selector { properity:value; properity:value;   }
+
+where a selector is the element ,id , class which i want to apply the styles on it 
+and the declaration block is consist of properity as color and its value as redundancy
+
+example 
+          h1{color:red;}
+
+
+
+
+we can use diffrent selectors as following
+
+class selector: we can apply styles on all elements of a special class
+example:
+            .classname{color:red;}
+
+
+id selector: apply styles on id 
+example:
+            #idname{color:red;}
+
+group selector as we can specify special elements which have a classname to be only affected
+
+example
+
+div.classname{color:red;}
+
+
+universal selector: use * to aplly changes on all elements
+
+
+
+
+
+Asses Yourself 
+
+visit link https://www.w3schools.com/css/exercise.asp?filename=exercise_selectors1
